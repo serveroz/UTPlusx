@@ -1,6 +1,6 @@
 UTPlus
 
-Desarrollada por: Sebastian Velasquez Orozco
+Desarrollada por: Sebastian Velasquez
 
 Extensión para Mozilla Firefox que mejora la usabilidad del inicio de sesión en el Portal Estudiantil de la Universidad Tecnológica de Pereira
 
@@ -18,4 +18,4 @@ Muy pronto
 
 ¿Sugerencias y mejoras?
 
-Ve a los issues... esta bien, escribe a sevelasquez@utp.edu.co
+Ve a los issues... esta bien, escribe a sebas46825+git@gmail.com
