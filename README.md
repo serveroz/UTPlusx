@@ -1,21 +1,20 @@
 UTPlus
+======
 
-Desarrollada por: Sebastian Velasquez
+Extensión para Mozilla Firefox que mejora la usabilidad del inicio de sesión en el Portal Estudiantil de la [Universidad Tecnológica de Pereira](http://app4.utp.edu.co/pe/)
 
-Extensión para Mozilla Firefox que mejora la usabilidad del inicio de sesión en el Portal Estudiantil de la Universidad Tecnológica de Pereira
+> Con esta extensión no tendrás que quitar las manos del teclado para ingresar al portal
 
-    Con esta extensión no tendrás que quitar las manos del teclado para ingresar al portal
+### Qué hace
 
-Qué hace
+* El campo de código se habilita para que escribas inmediatamente cargue la página.
+* Ahora puedes utilizar la tecla Enter para entrar al portal.
+* Elimina el innecesario e inútil botón 'Salir'.
 
-    El campo de código se habilita para que escribas inmediatamente cargue la página.
-    Ahora puedes utilizar la tecla Enter para entrar al portal.
-    Elimina el innecesario e inútil botón 'Salir'.
+### Muy pronto
 
-Muy pronto
+* Habilitar el guardado automático de contraseñas.
 
-    Habilitar el guardado automático de contraseñas.
+### ¿Sugerencias y mejoras?
 
-¿Sugerencias y mejoras?
-
-Ve a los issues... esta bien, escribe a sebas46825+git@gmail.com
+Ve a los issues... esta bien, escribe a 'sebas46825+git@gmail.com'
